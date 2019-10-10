@@ -110,6 +110,7 @@ SRCDIRS		+=	arch/$(ARCH)/lib/cpu \
 				kernel/vfs/sys \
 				kernel/vfs/tar \
 				kernel/xfs \
+				kernel/xui \
 				driver/adc \
 				driver/audio \
 				driver/battery \
